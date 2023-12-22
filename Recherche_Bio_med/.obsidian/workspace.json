@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de6f0afa2d7cb355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Article - EMBC - Data Fusion/Plan globale article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article - EMBC - Data Fusion/Combining Bioimpedance and EMG Measurements for Reliable Muscle Contration Detection.md",
+                "file": "Article - EMBC - Data Fusion/Plan globale article.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article - EMBC - Data Fusion/Combining Bioimpedance and EMG Measurements for Reliable Muscle Contration Detection.md",
+                "file": "Article - EMBC - Data Fusion/Plan globale article.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article - EMBC - Data Fusion/Combining Bioimpedance and EMG Measurements for Reliable Muscle Contration Detection.md"
+                "file": "Article - EMBC - Data Fusion/Plan globale article.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b86fc181097febd",
+  "active": "de6f0afa2d7cb355",
   "lastOpenFiles": [
-    "Article - EMBC - Data Fusion/Introduction Data Fusion matlab.md",
     "Article - EMBC - Data Fusion/Combining Bioimpedance and EMG Measurements for Reliable Muscle Contration Detection.md",
+    "Article - EMBC - Data Fusion/Plan globale article.md",
+    "Article - EMBC - Data Fusion/Introduction Data Fusion matlab.md",
     "Article - EMBC - Data Fusion"
   ]
 }

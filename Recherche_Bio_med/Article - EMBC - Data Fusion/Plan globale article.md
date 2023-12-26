@@ -18,3 +18,5 @@ Will be written once most of the job is done (we need to know the conclusion and
 	- Preprocessing
 	- Feature extraction
 - Testing : ?
+
+
